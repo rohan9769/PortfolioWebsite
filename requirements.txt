@@ -19,7 +19,7 @@ python-dateutil==2.8.0
 pytz==2018.9
 requests==2.23.0
 six==1.12.0
-urllib3==1.25.9
+urllib3==1.26.5
 virtualenv==20.0.20
 virtualenv-clone==0.5.4
 whitenoise==5.1.0
